@@ -1,0 +1,69 @@
+{
+  "$type": "System.Collections.Generic.List`1[[Model.FoodProduct, Model]], System.Private.CoreLib",
+  "$values": [
+    {
+      "$type": "Model.Vegetable, Model",
+      "IsOrganic": true,
+      "WaterContent": 88.0,
+      "Name": "Морковь",
+      "DaysToExpire": 5,
+      "MaxShelfLife": 10
+    },
+    {
+      "$type": "Model.Vegetable, Model",
+      "IsOrganic": false,
+      "WaterContent": 79.0,
+      "Name": "Картофель",
+      "DaysToExpire": 15,
+      "MaxShelfLife": 30
+    },
+    {
+      "$type": "Model.Fruit, Model",
+      "SweetnessLevel": 7,
+      "IsRipe": true,
+      "Name": "Яблоко",
+      "DaysToExpire": 7,
+      "MaxShelfLife": 14
+    },
+    {
+      "$type": "Model.Fruit, Model",
+      "SweetnessLevel": 9,
+      "IsRipe": false,
+      "Name": "Банан",
+      "DaysToExpire": 3,
+      "MaxShelfLife": 10
+    },
+    {
+      "$type": "Model.Meat, Model",
+      "FatContent": 10.0,
+      "IsFrozen": true,
+      "Name": "Курица",
+      "DaysToExpire": 2,
+      "MaxShelfLife": 7
+    },
+    {
+      "$type": "Model.Meat, Model",
+      "FatContent": 25.0,
+      "IsFrozen": false,
+      "Name": "Говядина",
+      "DaysToExpire": 5,
+      "MaxShelfLife": 10
+    },
+    {
+      "$type": "Model.Backery, Model",
+      "IsGlutenFree": false,
+      "SugarContent": 5,
+      "Name": "Хлеб",
+      "DaysToExpire": 2,
+      "MaxShelfLife": 5
+    },
+    {
+      "$type": "Model.Backery, Model",
+      "IsGlutenFree": true,
+      "SugarContent": 15,
+      "Name": "Безглютеновый кекс",
+      "DaysToExpire": 3,
+      "MaxShelfLife": 7
+    }
+  ]
+}

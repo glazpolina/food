@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1/WzxUBqR70=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\glazp\\source\\repos\\FoodQualityAnalyzerApp\\FoodQualityAnalyzerApp\\FoodQualityAnalyzerApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\glazp\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
